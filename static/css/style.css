@@ -1,0 +1,33 @@
+/* h1 {
+  color: blue;
+} */
+
+#about {
+  height: 25%;
+  width: 25%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: Sanchez, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend .open {
+  color: red;
+}
+
+.legend .closed {
+  color: green;
+}
+
+.legend .pending {
+  color: orange ;
+}
+
