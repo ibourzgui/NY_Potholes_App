@@ -1,4 +1,8 @@
 # NY_Potholes_App
+this was a collaborative work with:
+brunoprogramsnow
+kyleng
+
 
 # Summary: 
 
